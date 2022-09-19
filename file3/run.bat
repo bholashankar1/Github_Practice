@@ -1,0 +1,1 @@
+start chrome --new-window --incognito "xmhamster.desi"
